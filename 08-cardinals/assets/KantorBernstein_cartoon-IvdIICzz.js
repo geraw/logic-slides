@@ -1,0 +1,1 @@
+var e=`/logic-slides/08-cardinals/assets/KantorBernstein_cartoon-Dl-vfq_t.png`;export{e as t};
