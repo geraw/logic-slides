@@ -1,0 +1,14 @@
+
+.formula-box[data-v-8406cb23] {
+  border: 2px solid #dbd4f3ff;
+  background-color: #e2dfeeff;
+  /* padding: 0.1rem .1rem; */
+  border-radius: 10px;
+  margin-top: -3px;
+  margin-bottom: -1px; 
+  direction: ltr; 
+  width: fit-content;
+  padding: 0rem 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
