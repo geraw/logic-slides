@@ -1,0 +1,23 @@
+
+.demorgan-equivalence-proof[data-v-eb53414e] { padding: 8px 14px; border: 1px solid #c7d2fe; border-radius: 12px; background: #f8faff; margin-top: 10px;
+}
+.demorgan-equivalence-row[data-v-eb53414e] { display: grid; grid-template-columns: 50px minmax(0, 1fr) 175px; gap: 12px; align-items: center; direction: ltr; min-height: 36px;
+}
+.demorgan-equivalence-row p[data-v-eb53414e] { margin: 0;
+}
+.demorgan-equivalence-symbol[data-v-eb53414e], .demorgan-equivalence-formula[data-v-eb53414e] { direction: ltr; font-size: 19px; text-align: left; white-space: nowrap; grid-column: 2; grid-row: 1;
+}
+.demorgan-equivalence-symbol[data-v-eb53414e] { justify-self: end;
+}
+.demorgan-equivalence-formula[data-v-eb53414e] { padding-right: 62px;
+}
+.demorgan-equivalence-row[data-v-eb53414e] > :first-child:empty { grid-column: 1; grid-row: 1;
+}
+.demorgan-equivalence-row[data-v-eb53414e] > :last-child { grid-column: 3; grid-row: 1;
+}
+.demorgan-equivalence-reason[data-v-eb53414e] { direction: rtl; text-align: right; font-size: 16px; color: #1e40af;
+}
+.demorgan-equivalence-conclusion[data-v-eb53414e] { margin-top: 12px; font-size: 17px; line-height: 1.5;
+}
+.demorgan-equivalence-conclusion p[data-v-eb53414e] { margin: 0;
+}
