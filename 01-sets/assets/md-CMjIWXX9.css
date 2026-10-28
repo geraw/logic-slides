@@ -1,0 +1,15 @@
+
+.demorgan-equivalence-proof[data-v-d76bd9a7] { padding: 8px 14px; border: 1px solid #c7d2fe; border-radius: 12px; background: #f8faff; margin-top: 10px;
+}
+.demorgan-equivalence-row[data-v-d76bd9a7] { display: grid; grid-template-columns: 50px minmax(0, 1fr) 175px; gap: 12px; align-items: center; direction: ltr; min-height: 36px;
+}
+.demorgan-equivalence-row p[data-v-d76bd9a7] { margin: 0;
+}
+.demorgan-equivalence-symbol[data-v-d76bd9a7], .demorgan-equivalence-formula[data-v-d76bd9a7] { font-size: 19px; text-align: left; white-space: nowrap;
+}
+.demorgan-equivalence-reason[data-v-d76bd9a7] { direction: rtl; text-align: right; font-size: 16px; color: #1e40af;
+}
+.demorgan-equivalence-conclusion[data-v-d76bd9a7] { margin-top: 12px; font-size: 17px; line-height: 1.5;
+}
+.demorgan-equivalence-conclusion p[data-v-d76bd9a7] { margin: 0;
+}
