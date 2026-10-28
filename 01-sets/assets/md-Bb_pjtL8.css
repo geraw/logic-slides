@@ -1,0 +1,19 @@
+
+.empty-set-proof-template[data-v-ba58f050] {
+  position: absolute;
+  left: 32px;
+  right: 32px;
+  top: 365px;
+  padding: 14px 20px;
+  border: 2px solid #2563eb;
+  border-radius: 12px;
+  background: #eff6ff;
+  color: #1e3a8a;
+  font-size: 20px;
+  line-height: 1.6;
+  transition: opacity 400ms ease, transform 400ms ease;
+}
+.empty-set-proof-template p[data-v-ba58f050] { margin: 0;
+}
+.empty-set-proof-template.slidev-vclick-hidden[data-v-ba58f050] { transform: translateY(16px);
+}
