@@ -1,0 +1,30 @@
+
+.slidev-layout table[data-v-6a606183] {
+  font-size: 0.8em;
+  border-collapse: collapse;
+  margin: 0 auto;
+  width: fit-content;
+}
+.slidev-layout th[data-v-6a606183],
+.slidev-layout td[data-v-6a606183] {
+  padding: 3px 10px;
+  border: 1px solid #ccc;
+}
+.slidev-layout th[data-v-6a606183] {
+  border-bottom: 2px solid #888;
+}
+
+/* Add a thicker vertical line after the input columns */
+.slidev-layout th[data-v-6a606183]:nth-child(3),
+.slidev-layout td[data-v-6a606183]:nth-child(3) {
+  border-right: 2px solid #888;
+}
+
+/* Highlight the columns to be compared */
+.slidev-layout th[data-v-6a606183]:nth-child(5),
+.slidev-layout td[data-v-6a606183]:nth-child(5),
+.slidev-layout th[data-v-6a606183]:nth-child(8),
+.slidev-layout td[data-v-6a606183]:nth-child(8) {
+  background-color: #eef;
+  border-color: #99d;
+}
