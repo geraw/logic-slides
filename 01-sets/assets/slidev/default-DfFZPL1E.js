@@ -1,0 +1,1 @@
+import{R as e,V as t,y as n}from"../modules/shiki-l_QOybKV.js";import{W as r}from"../index-BRFpsQPT.js";var i={},a={class:`slidev-layout default`};function o(r,i){return e(),n(`div`,a,[t(r.$slots,`default`)])}var s=r(i,[[`render`,o]]);export{s as t};
