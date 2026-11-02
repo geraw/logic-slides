@@ -1,0 +1,11 @@
+
+.rules table[data-v-b61fcbda] { direction: rtl; width: 100%; border-collapse: collapse;
+}
+.rules th[data-v-b61fcbda], .rules td[data-v-b61fcbda] { padding: 9px 14px !important; text-align: right !important; border: none; border-bottom: 1px solid #c7d2fe;
+}
+.rules th[data-v-b61fcbda] { background: #eef2ff; color: #1e3a8a; border-bottom: 2px solid #6366f1;
+}
+.rules tbody tr:nth-child(even) td[data-v-b61fcbda] { background: #f8fafc;
+}
+.rules td[data-v-b61fcbda]:first-child { white-space: nowrap; font-weight: 600;
+}

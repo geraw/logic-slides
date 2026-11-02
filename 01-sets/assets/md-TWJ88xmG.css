@@ -1,0 +1,60 @@
+
+.powerset-animation[data-v-2a7b5eff] { border: 1px solid #c7d2fe; border-radius: 14px; background: #f8faff; padding: 10px 18px; color: #172554; line-height: 1.35;
+}
+.powerset-scene[data-v-2a7b5eff] { display: grid; grid-template-columns: 230px 150px minmax(0, 1fr); gap: 14px; align-items: center;
+}
+.powerset-heading[data-v-2a7b5eff] { font-family: Georgia, serif; font-size: 25px; line-height: 1.2; text-align: center; margin-bottom: 8px;
+}
+.powerset-elements[data-v-2a7b5eff] { display: flex; justify-content: center; gap: 24px; border: 2px solid #818cf8; border-radius: 55%; padding: 12px 20px;
+}
+.powerset-element[data-v-2a7b5eff] { display: grid; place-items: center; width: 40px; height: 40px; border-radius: 50%; background: #e2e8f0; border: 2px solid #cbd5e1; font-size: 23px; transition: background 450ms, border-color 450ms, transform 450ms;
+}
+.powerset-element.chosen[data-v-2a7b5eff] { background: #bfdbfe; border-color: #2563eb; transform: translateY(-3px);
+}
+.powerset-selection[data-v-2a7b5eff] { min-height: 32px; margin-top: 6px; text-align: center; font-size: 19px; color: #1d4ed8;
+}
+.powerset-hint[data-v-2a7b5eff] { text-align: center; font-size: 14px; color: #475569;
+}
+.powerset-bridge[data-v-2a7b5eff] { text-align: center; font-size: 15px; line-height: 1.5;
+}
+.powerset-left-arrow[data-v-2a7b5eff] { display: block; font-size: 38px; color: #2563eb; line-height: 1; margin-bottom: 6px;
+}
+.powerset-destination[data-v-2a7b5eff] { border: 2px solid #818cf8; border-radius: 18px; padding: 8px 12px;
+}
+.powerset-subsets[data-v-2a7b5eff] { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 8px;
+}
+.powerset-slot[data-v-2a7b5eff] { min-height: 42px; border: 1px dashed #c7d2fe; border-radius: 9px; display: grid; place-items: center; transition: background 300ms, border-color 300ms;
+}
+.powerset-slot.current[data-v-2a7b5eff] { background: #dbeafe; border-color: #2563eb; border-style: solid;
+}
+.powerset-subset[data-v-2a7b5eff] { font-family: Georgia, serif; font-size: 23px;
+}
+.powerset-status[data-v-2a7b5eff] { min-height: 28px; margin: 6px 0; text-align: center; font-size: 17px;
+}
+.powerset-controls[data-v-2a7b5eff] { display: flex; justify-content: center; gap: 10px;
+}
+.powerset-controls button[data-v-2a7b5eff] { padding: 4px 12px; border: 1px solid #a5b4fc; border-radius: 7px; background: white; font: inherit; font-size: 14px; cursor: pointer;
+}
+.powerset-controls button[data-v-2a7b5eff]:first-child { background: #2563eb; border-color: #2563eb; color: white;
+}
+.powerset-controls button[data-v-2a7b5eff]:disabled { opacity: .4; cursor: default;
+}
+.powerset-controls button[data-v-2a7b5eff]:focus-visible { outline: 3px solid #f59e0b; outline-offset: 2px;
+}
+.subset-arrival-enter-active[data-v-2a7b5eff] { transition: opacity 500ms, transform 500ms;
+}
+.subset-arrival-enter-from[data-v-2a7b5eff] { opacity: 0; transform: translateX(32px) scale(.6);
+}
+@media (prefers-reduced-motion: reduce) {
+.powerset-element[data-v-2a7b5eff], .powerset-slot[data-v-2a7b5eff], .subset-arrival-enter-active[data-v-2a7b5eff] { transition: none;
+}
+}
+
+.powerset-definition-line[data-v-10099bcd] { font-size: 20px; text-align: center; margin: 10px 0 14px;
+}
+.powerset-definition-line p[data-v-10099bcd] { margin: 0;
+}
+.powerset-unary-note[data-v-10099bcd] { font-size: 16px; margin-top: 6px;
+}
+.powerset-unary-note p[data-v-10099bcd] { margin: 0;
+}

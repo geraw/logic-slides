@@ -1,0 +1,13 @@
+
+.powerset-equality-answer[data-v-8afc2263] { margin-top: 14px; font-size: 17px;
+}
+.powerset-equality-proof[data-v-8afc2263] { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 10px 0; font-size: 16px; line-height: 1.4;
+}
+.powerset-equality-direction[data-v-8afc2263] { border: 1px solid #c7d2fe; border-radius: 12px; padding: 12px 14px; background: #f8faff;
+}
+.powerset-equality-proof p[data-v-8afc2263] { margin: 0 0 8px;
+}
+.powerset-equality-proof ol[data-v-8afc2263] { margin: 6px 0 0; padding-right: 22px;
+}
+.powerset-equality-proof li[data-v-8afc2263] { margin: 6px 0 !important; line-height: 1.4;
+}
