@@ -1,0 +1,27 @@
+
+.powerset-intersection-illustration[data-v-331b55f2] { position: absolute; left: 24px; top: 54px; width: 160px; height: 132px; z-index: 2;
+}
+.powerset-intersection-illustration text[data-v-331b55f2] { font-size: 21px !important;
+}
+.powerset-intersection-illustration > text[data-v-331b55f2] { font-size: 17px !important;
+}
+.slidev-layout:has(.powerset-intersection-illustration) > p[data-v-331b55f2] { padding-left: 174px;
+}
+.powerset-intersection-lemma[data-v-331b55f2] { font-size: 16px; margin-top: 6px; padding-left: 174px;
+}
+.powerset-intersection-lemma p[data-v-331b55f2] { margin: 0;
+}
+.powerset-intersection-proof[data-v-331b55f2] { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 10px; font-size: 15.5px; line-height: 1.35;
+}
+.powerset-intersection-direction[data-v-331b55f2] { border: 1px solid #c7d2fe; border-radius: 12px; padding: 10px 12px; background: #f8faff;
+}
+.powerset-intersection-proof p[data-v-331b55f2] { margin: 0 0 7px;
+}
+.powerset-intersection-proof ol[data-v-331b55f2] { margin: 6px 0 0; padding-right: 22px;
+}
+.powerset-intersection-proof li[data-v-331b55f2] { margin: 5px 0 !important; line-height: 1.35;
+}
+.powerset-intersection-conclusion[data-v-331b55f2] { margin-top: 8px; font-size: 16px;
+}
+.powerset-intersection-conclusion p[data-v-331b55f2] { margin: 0;
+}
