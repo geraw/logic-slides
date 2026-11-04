@@ -1,0 +1,15 @@
+
+.two-cols-header[data-v-d00de86f] {
+  column-gap: 40px; /* Adjust the gap size as needed */
+  /* Optional: add some padding for better readability */
+  padding: 30px 40px 30px 20px;
+}
+.two-cols-header li strong[data-v-d00de86f] {
+  color: #2563eb;
+}
+.two-cols-header h2[data-v-d00de86f] {
+  margin-top: 1rem;
+}
+.two-cols-header h2[data-v-d00de86f]:first-of-type {
+  margin-top: 0;
+}
