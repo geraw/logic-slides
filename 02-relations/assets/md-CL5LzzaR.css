@@ -1,0 +1,39 @@
+
+.relation-gallery[data-v-edd6ea26] { padding-top: 4px;
+}
+.gallery-intro[data-v-edd6ea26] { font-size: 19px; line-height: 1.4; margin: 0 0 12px;
+}
+.gallery-grid[data-v-edd6ea26] { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px;
+}
+.example-card[data-v-edd6ea26] { border: 1px solid #dbe2ea; border-radius: 13px; padding: 10px 11px 8px; background: #fff;
+}
+.general[data-v-edd6ea26] { background: #fff7ed; border-color: #fed7aa;
+}
+.order[data-v-edd6ea26] { background: #eff6ff; border-color: #bfdbfe;
+}
+.equivalence[data-v-edd6ea26] { background: #f5f3ff; border-color: #ddd6fe;
+}
+.function[data-v-edd6ea26] { background: #f0fdfa; border-color: #99f6e4;
+}
+.card-heading[data-v-edd6ea26] { display: flex; align-items: center; justify-content: space-between; gap: 5px;
+}
+.card-heading h3[data-v-edd6ea26] { font-size: 16px; line-height: 1.3; margin: 0; color: #0f172a; font-weight: 700;
+}
+.card-heading span[data-v-edd6ea26] { white-space: nowrap; font-size: 11px; color: #475569; border: 1px solid #cbd5e1; border-radius: 20px; padding: 2px 6px; background: #ffffffc9;
+}
+.example-card svg[data-v-edd6ea26] { display: block; width: 100%; height: 82px; margin: 4px 0; direction: ltr;
+}
+.example-card p[data-v-edd6ea26] { font-size: 13px; line-height: 1.35; text-align: center; margin: 0; color: #334155;
+}
+svg text[data-v-edd6ea26] { font: 21px Arial, sans-serif; fill: #334155; text-anchor: middle; direction: ltr; unicode-bidi: isolate;
+}
+svg text.small[data-v-edd6ea26] { font-size: 14px;
+}
+svg text.heart[data-v-edd6ea26] { fill: #e11d48; font-size: 19px;
+}
+svg text.machine[data-v-edd6ea26] { font-size: 34px; fill: #0f766e;
+}
+.arrow[data-v-edd6ea26] { fill: none; stroke: #475569; stroke-width: 2;
+}
+.gallery-takeaway[data-v-edd6ea26] { margin: 10px 0 0; font-size: 14px; line-height: 1.4; color: #475569;
+}

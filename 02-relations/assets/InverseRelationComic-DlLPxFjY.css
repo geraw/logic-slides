@@ -1,0 +1,17 @@
+
+.inverse-series-comic[data-v-ed6e3a8c] { position: absolute; left: 270px; top: 65px; width: 250px; margin: 0; z-index: 5;
+}
+img[data-v-ed6e3a8c] { position: relative; display: block; width: 250px; height: 150px; object-fit: contain;
+}
+.inverse-series-double[data-v-ed6e3a8c] { left: 250px; width: 320px;
+}
+.inverse-series-double img[data-v-ed6e3a8c] { width: 320px; height: 160px;
+}
+.inverse-series-comic[data-v-ed6e3a8c]::before { content: ''; position: absolute; inset: 25px 0; border-radius: 20px; pointer-events: none;
+}
+.inverse-series-domain[data-v-ed6e3a8c]::before { background: radial-gradient(ellipse at 14% 55%, #bae6fdc0, transparent 24%), radial-gradient(ellipse at 88% 55%, #bae6fdc0, transparent 24%);
+}
+.inverse-series-image[data-v-ed6e3a8c]::before { background: radial-gradient(ellipse at 34% 55%, #fed7aac0, transparent 24%), radial-gradient(ellipse at 66% 55%, #fed7aac0, transparent 24%);
+}
+.inverse-series-double[data-v-ed6e3a8c]::before { background: radial-gradient(ellipse at 15% 55%, #ccfbf1b0, transparent 27%), radial-gradient(ellipse at 85% 55%, #ccfbf1b0, transparent 27%);
+}

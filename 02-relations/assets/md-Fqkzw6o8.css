@@ -1,0 +1,11 @@
+
+svg[data-v-c7aa38e6] { display: block; width: 100%; height: 255px; direction: ltr;
+}
+text[data-v-c7aa38e6] { font: 22px Arial, sans-serif; fill: #334155; text-anchor: middle; direction: ltr;
+}
+.hamiltonian-demo[data-v-c7aa38e6] { text-align: center;
+}
+button[data-v-c7aa38e6] { font: 15px Arial, sans-serif; padding: 7px 14px; border: 1px solid #d97706; border-radius: 7px; background: #fffbeb; color: #92400e; cursor: pointer;
+}
+.hamiltonian-result[data-v-c7aa38e6] { min-height: 28px; margin-top: 8px; font: 17px/1.5 ui-monospace, monospace; color: #92400e;
+}
