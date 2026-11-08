@@ -1,9 +1,0 @@
-
-.slidev-layout.two-cols-header-custom[data-v-205198a7] {
-  /* keep things tidy on very narrow screens */
-  container-type: inline-size;
-}
-@container (max-width: 720px) {
-.grid[data-v-205198a7] { grid-template-columns: 1fr !important;
-}
-}

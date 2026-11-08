@@ -1,0 +1,12 @@
+
+/* יותר ריווח בין פריטי רשימות במצגות */
+:where(.slidev-layout) ul li[data-v-5721dbfd],
+:where(.slidev-layout) ol li[data-v-5721dbfd] {
+  margin-bottom: 2rem;
+}
+  
+/* אם רוצים מרווח גדול יותר לשקפים עם טקסט כותרתי אשפר כאן */
+:where(.slidev-layout) .slidev-markdown ul li[data-v-5721dbfd],
+:where(.slidev-layout) .slidev-markdown ol li[data-v-5721dbfd] {
+  margin-bottom: 0.8rem;
+}

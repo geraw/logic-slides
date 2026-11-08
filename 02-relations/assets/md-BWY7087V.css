@@ -1,0 +1,13 @@
+
+svg[data-v-ca1857ee] { display: block; width: 100%; direction: ltr;
+}
+text[data-v-ca1857ee] { font: 21px Arial, sans-serif; fill: #334155; text-anchor: middle; direction: ltr;
+}
+.maze-actions[data-v-ca1857ee] { display: flex; align-items: center; justify-content: space-between; gap: 10px; font-size: 14px; margin-top: 12px;
+}
+button[data-v-ca1857ee] { font: inherit; border: 1px solid #d97706; border-radius: 7px; padding: 7px 10px; background: #fffbeb; color: #92400e; cursor: pointer;
+}
+button[data-v-ca1857ee]:hover { background: #fef3c7;
+}
+.maze-result[data-v-ca1857ee] { margin-top: 14px; min-height: 30px; text-align: center; font: 20px/1.5 ui-monospace, monospace; color: #92400e;
+}
