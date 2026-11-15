@@ -1,0 +1,11 @@
+
+.rules table[data-v-6adbccfc] { direction: rtl; width: 100%; border-collapse: collapse;
+}
+.rules th[data-v-6adbccfc], .rules td[data-v-6adbccfc] { padding: 9px 14px !important; text-align: right !important; border: none; border-bottom: 1px solid #c7d2fe;
+}
+.rules th[data-v-6adbccfc] { background: #eef2ff; color: #1e3a8a; border-bottom: 2px solid #6366f1;
+}
+.rules tbody tr:nth-child(even) td[data-v-6adbccfc] { background: #f8fafc;
+}
+.rules td[data-v-6adbccfc]:first-child { white-space: nowrap; font-weight: 600;
+}
