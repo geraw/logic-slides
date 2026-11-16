@@ -1,0 +1,59 @@
+
+.lexprod[data-v-bcb1efc0] { display: grid; grid-template-columns: 1fr 1fr; gap: 4px 24px; font-size: 15px; line-height: 1.35;
+}
+.side[data-v-bcb1efc0] { display: flex; flex-direction: column; align-items: center;
+}
+.head[data-v-bcb1efc0] { font-weight: 700; font-size: 17px; line-height: 1.2;
+}
+.rule[data-v-bcb1efc0] { font-size: 13px; color: #374151; margin-bottom: 2px;
+}
+svg[data-v-bcb1efc0] { display: block; direction: ltr; background: #fafafa; border: 1.5px solid #d4d4d8; border-radius: 10px;
+}
+.axis[data-v-bcb1efc0] { stroke: #9ca3af; stroke-width: 1.5;
+}
+.tick[data-v-bcb1efc0] { font-size: 12px !important; fill: #6b7280; text-anchor: middle; dominant-baseline: central; user-select: none;
+}
+.more[data-v-bcb1efc0] { font-size: 18px !important; text-anchor: middle; dominant-baseline: central; user-select: none; font-weight: 700;
+}
+.more.below[data-v-bcb1efc0] { fill: #1d4ed8;
+}
+.more.above[data-v-bcb1efc0] { fill: #c2410c;
+}
+.more.incomparable[data-v-bcb1efc0] { fill: #9ca3af;
+}
+.pt[data-v-bcb1efc0] { cursor: pointer;
+}
+.pt .hit[data-v-bcb1efc0] { fill: transparent;
+}
+.pt .dot[data-v-bcb1efc0] { stroke-width: 2; transition: fill 0.15s;
+}
+.pt:hover .dot[data-v-bcb1efc0] { stroke-width: 3.5;
+}
+.pt.self .dot[data-v-bcb1efc0] { fill: #fde68a; stroke: #92400e; stroke-width: 4;
+}
+.pt.below .dot[data-v-bcb1efc0] { fill: #bfdbfe; stroke: #1d4ed8;
+}
+.pt.above .dot[data-v-bcb1efc0] { fill: #fed7aa; stroke: #c2410c;
+}
+.pt.incomparable .dot[data-v-bcb1efc0] { fill: #e5e7eb; stroke: #9ca3af;
+}
+.pt.near .dot[data-v-bcb1efc0] { stroke-width: 5;
+}
+.facts[data-v-bcb1efc0] { width: 100%; margin: 3px 0 0 !important; padding: 0 !important; list-style: none !important; min-height: 84px; font-size: 14px;
+}
+.facts li[data-v-bcb1efc0] { margin: 0 !important; padding: 0 !important; line-height: 1.5; list-style: none !important;
+}
+.legend[data-v-bcb1efc0] { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 6px; justify-content: center;
+}
+.chip[data-v-bcb1efc0] { border-radius: 10px; padding: 0 8px; border: 1.5px solid; font-size: 13px;
+}
+.chip.self[data-v-bcb1efc0] { background: #fde68a; border-color: #92400e;
+}
+.chip.below[data-v-bcb1efc0] { background: #bfdbfe; border-color: #1d4ed8;
+}
+.chip.above[data-v-bcb1efc0] { background: #fed7aa; border-color: #c2410c;
+}
+.chip.incomparable[data-v-bcb1efc0] { background: #e5e7eb; border-color: #9ca3af;
+}
+.chip.near[data-v-bcb1efc0] { background: #fff; border-color: #3f3f46; border-width: 3px;
+}
