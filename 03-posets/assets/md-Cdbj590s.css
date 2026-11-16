@@ -1,0 +1,31 @@
+
+.hcount[data-v-1c96c92b] { display: flex; gap: 22px; align-items: flex-start; font-size: 15px; line-height: 1.4;
+}
+.shapes[data-v-1c96c92b] { flex: none; width: 330px; display: flex; flex-direction: column; gap: 6px;
+}
+.shapes button[data-v-1c96c92b] { display: flex; justify-content: space-between; align-items: center; gap: 8px; border: 1.5px solid #a1a1aa; border-radius: 8px; padding: 5px 10px; background: #fff; cursor: pointer; font-size: 15px;
+}
+.shapes button[data-v-1c96c92b]:hover { background: #f4f4f5;
+}
+.shapes button.on[data-v-1c96c92b] { background: #1e3a8a; border-color: #1e3a8a; color: #fff;
+}
+.formula[data-v-1c96c92b] { font-weight: 700; white-space: nowrap;
+}
+.sum[data-v-1c96c92b] { text-align: center; font-size: 22px; margin-top: 4px;
+}
+.sum .hot[data-v-1c96c92b] { background: #fde68a; border-radius: 4px; padding: 0 3px;
+}
+.why[data-v-1c96c92b] { margin: 0; min-height: 92px; background: #eff6ff; border: 1.5px solid #bfdbfe; border-radius: 8px; padding: 6px 10px; font-size: 14.5px;
+}
+.rows[data-v-1c96c92b] { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 5px;
+}
+.row[data-v-1c96c92b] { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 24px; padding: 3px 6px; border: 1.5px solid #e4e4e7; border-radius: 10px; cursor: pointer; transition: opacity 0.3s, background 0.3s; direction: ltr; min-height: 52px;
+}
+.row[data-v-1c96c92b]:hover { background: #fafafa;
+}
+.row.on[data-v-1c96c92b] { background: #fffbeb; border-color: #f59e0b;
+}
+.row.off[data-v-1c96c92b] { opacity: 0.3;
+}
+.cell[data-v-1c96c92b] { flex: none;
+}
