@@ -1,0 +1,53 @@
+
+.a2h[data-v-d78b23d3] { display: flex; gap: 20px; align-items: flex-start; font-size: 15.5px; line-height: 1.4;
+}
+.diagram[data-v-d78b23d3] { flex: none; background: #fafafa; border: 1.5px solid #d4d4d8; border-radius: 10px;
+}
+svg[data-v-d78b23d3] { display: block; direction: ltr;
+}
+.panel[data-v-d78b23d3] { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 8px;
+}
+.panel p[data-v-d78b23d3] { margin: 0;
+}
+button[data-v-d78b23d3] { border: 1.5px solid #3f3f46; border-radius: 8px; padding: 4px 10px; background: #fff; cursor: pointer; font-size: 14.5px;
+}
+button[data-v-d78b23d3]:hover { background: #f3f4f6;
+}
+button.on[data-v-d78b23d3] { background: #1e3a8a; color: #fff; border-color: #1e3a8a;
+}
+.choices[data-v-d78b23d3] { display: flex; gap: 6px; flex-wrap: wrap;
+}
+.rule-line[data-v-d78b23d3] { font-weight: 600; color: #374151;
+}
+.count[data-v-d78b23d3] { display: flex; align-items: baseline; gap: 8px;
+}
+.count b[data-v-d78b23d3] { font-size: 30px; line-height: 1; color: #1e3a8a;
+}
+.steps[data-v-d78b23d3] { margin: 0 !important; padding-inline-start: 1.3em !important; display: flex; flex-direction: column; gap: 5px;
+}
+.steps li[data-v-d78b23d3] { margin: 0 !important; padding: 3px 6px; border-radius: 6px; color: #52525b; transition: background 0.3s, color 0.3s;
+}
+.steps li.now[data-v-d78b23d3] { background: #eff6ff; color: #111827; outline: 1.5px solid #93c5fd;
+}
+.steps li.done[data-v-d78b23d3] { color: #a1a1aa;
+}
+.edge[data-v-d78b23d3] { fill: none; stroke: #374151; stroke-width: 2; transition: opacity 0.6s, stroke 0.3s, stroke-width 0.3s;
+}
+.edge.hot.loop[data-v-d78b23d3] { stroke: #2563eb; stroke-width: 3.5;
+}
+.edge.hot.transitive[data-v-d78b23d3] { stroke: #ea580c; stroke-width: 3.5;
+}
+.edge.gone[data-v-d78b23d3] { opacity: 0;
+}
+.head.plain[data-v-d78b23d3] { fill: #374151;
+}
+.head.loop[data-v-d78b23d3] { fill: #2563eb;
+}
+.head.transitive[data-v-d78b23d3] { fill: #ea580c;
+}
+.node circle[data-v-d78b23d3] { fill: #fff; stroke: #111827; stroke-width: 2;
+}
+.node text[data-v-d78b23d3] { font-size: 16px !important; fill: #111827; user-select: none;
+}
+.node text.small[data-v-d78b23d3] { font-size: 12px !important;
+}
