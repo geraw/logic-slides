@@ -1,6 +1,0 @@
-
-/* Apply margin only to top-level list items */
-.slidev-layout > ul > li[data-v-33aa7bab],
-.slidev-layout > ol > li[data-v-33aa7bab] {
-  margin-top: 1.7rem;
-}

@@ -1,0 +1,27 @@
+
+.two-union-witnesses[data-v-9e052c81] { font-size: 17px; line-height: 1.35;
+}
+.two-union-witnesses > p[data-v-9e052c81] { margin: 7px 0;
+}
+.two-union-witnesses > ul[data-v-9e052c81] { margin: 6px 0;
+}
+.two-union-witnesses li[data-v-9e052c81] { margin: 5px 0 !important; line-height: 1.35;
+}
+.two-union-example[data-v-9e052c81] { display: grid; grid-template-columns: 1fr 270px; gap: 20px; align-items: center; margin-top: 12px; padding-top: 10px; border-top: 1px solid #c7d2fe; font-size: 16px;
+}
+.two-union-example p[data-v-9e052c81] { margin: 6px 0;
+}
+.two-union-example ul[data-v-9e052c81] { margin: 6px 0;
+}
+.two-union-example svg[data-v-9e052c81] { width: 270px; height: 200px;
+}
+.two-union-example svg text[data-v-9e052c81] { text-anchor: middle; direction: ltr; font-family: Georgia, serif; fill: #1e3a8a;
+}
+.two-union-example svg .two-union-diagram-label[data-v-9e052c81] { font-size: 25px !important;
+}
+.two-union-example svg .two-union-diagram-caption[data-v-9e052c81] { font-size: 21px !important;
+}
+.two-union-takeaway[data-v-9e052c81] { margin-top: 12px; padding: 9px 12px; border-radius: 10px; background: #eff6ff; font-size: 16px;
+}
+.two-union-takeaway p[data-v-9e052c81] { margin: 0;
+}

@@ -1,0 +1,19 @@
+
+.order-motivation[data-v-8e725324] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 4px;
+}
+.om-panel[data-v-8e725324] { display: flex; flex-direction: column; align-items: center; background: #fdf6e3; border: 2px solid #3f3f46; border-radius: 10px; padding: 8px 8px 6px;
+}
+.om-head[data-v-8e725324] { font-weight: 700; font-size: 19px; background: #f6d77a; border-radius: 6px; padding: 1px 14px; margin-bottom: 6px;
+}
+.om-bubbles[data-v-8e725324] { display: flex; flex-direction: column; align-items: center; gap: 4px; min-height: 96px; justify-content: flex-end;
+}
+.om-bubble[data-v-8e725324] { background: #fff; border: 1.5px solid #3f3f46; border-radius: 14px; padding: 1px 10px; font-size: 14px; line-height: 1.35;
+}
+.om-thought[data-v-8e725324] { border-style: dashed; background: #eef2ff;
+}
+.om-panel img[data-v-8e725324] { height: 200px; object-fit: contain; margin: 6px 0;
+}
+.om-formula[data-v-8e725324] { font-size: 11.5px; direction: ltr; white-space: nowrap;
+}
+.om-formula p[data-v-8e725324] { margin: 0;
+}
