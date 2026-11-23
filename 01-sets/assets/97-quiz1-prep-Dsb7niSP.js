@@ -1,0 +1,1 @@
+import e from"./00-intro-DSReSogo.js";import t from"./01-sets-CkhUWrGK.js";import n from"./02-relations-SojfNcVw.js";var r=(e,t)=>t.map(t=>({heading:t.heading?`${e}: ${t.heading}`:e,items:t.items})),i=[...r(`קשרים, כמתים, מבני הוכחה`,e),...r(`מבוא לקבוצות ולפעולות בוליאניות`,t),...r(`זוגות סדורים, יחסים, תכונות`,n)];export{i as default};
