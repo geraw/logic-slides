@@ -1,0 +1,17 @@
+
+.nonlinear-answer[data-v-5fd7567a] { font-size: 19px; line-height: 1.45;
+}
+.nonlinear-answer p[data-v-5fd7567a] { margin: 0 0 6px;
+}
+.nl-example[data-v-5fd7567a] { display: flex; align-items: center; gap: 18px; margin: 4px 0;
+}
+.nl-text[data-v-5fd7567a] { flex: 1;
+}
+.nl-diagram[data-v-5fd7567a] { flex: none; text-align: center; font-size: 18px; background: #fafafa; border: 1.5px solid #d4d4d8; border-radius: 10px; padding: 2px 10px 0;
+}
+.nl-diagram p[data-v-5fd7567a] { margin: 0;
+}
+.nonlinear-answer .katex-display[data-v-5fd7567a] { margin: 4px 0;
+}
+.nonlinear-answer ul[data-v-5fd7567a] { margin: 0;
+}
