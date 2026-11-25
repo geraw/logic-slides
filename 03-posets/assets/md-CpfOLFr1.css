@@ -1,0 +1,23 @@
+
+.ninet-hint[data-v-24cbdef4] { margin-top: 10px; padding-top: 8px; border-top: 1.5px dashed #c7d2fe; font-size: 19px;
+}
+.ninet-shapes[data-v-24cbdef4] { position: absolute; top: 335px; left: 70px; right: 70px; display: flex; justify-content: space-around; align-items: flex-end; transition: opacity 450ms ease;
+}
+.ninet-shapes > div[data-v-24cbdef4] { display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 17px;
+}
+.ninet-shapes b[data-v-24cbdef4] { min-width: 30px; padding: 0 8px; border-radius: 999px; background: #eef2ff; border: 1.5px solid #c7d2fe; color: #1e3a8a; text-align: center;
+}
+.nineteen-answer[data-v-24cbdef4] { font-size: 16.5px; margin-top: 4px;
+}
+.nineteen-answer table[data-v-24cbdef4] { margin: 4px 0 10px;
+}
+.nineteen-answer .ninet-shape[data-v-24cbdef4] { display: flex; justify-content: center; margin-bottom: 8px;
+}
+.nineteen-answer td[data-v-24cbdef4], .nineteen-answer th[data-v-24cbdef4] { padding: 4px 14px; line-height: 1.25; text-align: center; vertical-align: middle;
+}
+.nineteen-answer tr:first-child th[data-v-24cbdef4] { vertical-align: bottom;
+}
+.nineteen-answer p[data-v-24cbdef4] { margin: 2px 0;
+}
+.nineteen-answer li[data-v-24cbdef4] { margin-block: 3px !important;
+}
