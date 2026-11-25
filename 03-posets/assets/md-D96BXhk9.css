@@ -1,9 +1,0 @@
-
-.poset-comic-layout.dual-answer[data-v-9faa4968] { grid-template-columns: minmax(0, 1fr) 290px; gap: 28px; margin-top: 26px; font-size: 19px; line-height: 1.6;
-}
-.poset-comic-layout.dual-answer > img[data-v-9faa4968] { max-height: 320px;
-}
-.dual-answer li[data-v-9faa4968] { margin-block: 9px !important;
-}
-.dual-answer li li[data-v-9faa4968] { margin-block: 4px !important;
-}
